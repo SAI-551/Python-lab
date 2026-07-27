@@ -1,0 +1,12 @@
+name = "John"
+PI = 3.14
+def greet():
+    return "Hello"
+class Student:
+    pass
+roll_no = 101
+print(name)
+print(PI)
+print(greet())
+print(Student.__name__)
+print(roll_no)
